@@ -26,4 +26,3 @@ In the future, I plan to explore deep learning techniques and further enhance th
 
 ---
 
-Feel free to customize and expand upon these points to provide a comprehensive overview of your Email Spam Detection project on your GitHub README file.
