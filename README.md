@@ -18,7 +18,9 @@ We used a labeled dataset of emails, containing both spam and non-spam examples,
 
 ## Results
 
-Our spam detection system achieved an accuracy of [insert accuracy percentage] and demonstrated [insert other relevant metrics]. It successfully improved email security and user experience by filtering out spam emails.
+The SVM model achieved an accuracy of 0.9713, with a precision of 0.97 for "ham" and 1.00 for "spam," recall of 1.00 for "ham" and 0.76 for "spam," and F1-scores of 0.98 for "ham" and 0.87 for "spam."
+These metrics demonstrate the strong performance of the SVM model in classifying emails into "ham" (non-spam) and "spam" categories.
+
 
 ## Future Work
 
